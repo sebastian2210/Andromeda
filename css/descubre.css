@@ -1,0 +1,37 @@
+.imagenfond{
+
+    background: url("../img/1Mesa\ de\ trabajo\ 1\ copia\ 7.png");
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+
+    
+}
+.card2{
+    background: #BAE8E8;
+    height: 460px;
+    border-radius: 17px;
+    color: #272343;
+}
+.colorfondo{
+    background: #ffffff;
+}
+
+@media (max-width: 575.98){
+    .card2{
+        height: 300px;
+    }
+}
+@media (max-width: 767.98){
+    .card2{
+        height: 400px;
+        
+    }
+    
+}
+@media (max-width: 991.98){
+    div{
+        margin-top: 10px;
+    }
+    
+}

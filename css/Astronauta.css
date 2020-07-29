@@ -1,0 +1,30 @@
+
+.personas{
+    height: 60px;
+    width: 55px;
+}
+.nave{
+    height: 60px;
+    width: 40;
+}
+.moneds{
+    height: 30px;;
+}
+.billete{
+    height: 35px;
+    width: 60px;
+}
+.parrafo{
+    margin-left: 4%;
+}
+@media (max-width: 767.98px) {
+    .imagenastronauta{
+        display: none;
+    }
+ }
+ @media (max-width: 991.98px) { 
+    .imagenastronauta{
+        height: 60%;
+        
+    }
+ }

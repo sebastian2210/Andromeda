@@ -1,0 +1,33 @@
+
+body{
+
+    font-family: 'Roboto';
+}
+
+
+.jumbotron{
+
+    background: url("../img/Banner.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+   
+}
+.intro{
+    margin-top: 10%;
+    
+    color: #F6FFFF;
+
+}
+.img-andromeda {
+    max-width: 30%;
+    margin-left: 35%;
+  }
+
+.btn{
+    background:#BAE8E8 ;
+ border: 1px solid #707070;
+    opacity: 1;
+    color:#272343;
+}

@@ -1,0 +1,30 @@
+.iconoplaneta{
+    height: 100px;
+    width: 100px;
+    margin-top: -8vh;
+}
+.saturno{
+    height: 100px;
+    width: 170px;
+}
+.botonplanetas{
+    height: 60px;
+}
+.botoncolapso{
+    background: #BAE8E8;
+    border-color: #BAE8E8;
+    width: 100%;
+    height: 100%;
+    border-radius: 0px 0px 25px 25px;
+    color: #272343;
+}
+.tarjetaplanetas{
+    border-radius: 25px;
+    height: 650px;
+    background: #E3F6F5;
+    color: #272343;
+}
+
+.columnaplanetas{
+    margin-top: 15vh;
+}

@@ -1,0 +1,43 @@
+.fondformulario{
+    
+    background: url("../img/27Mesa\ de\ trabajo\ 1\ copia.png");
+    background-size: cover;
+    background-position: center;
+    height: 80vh ;
+    
+}
+
+.mensaje{
+    height: 120px;
+}
+.colorformulario{
+    color: #F6FFFF;
+}
+.formuindividual{
+    border-radius: 15px;
+}
+.titulo{
+    margin-top: 100px;
+}
+.botonformulario{
+    width: 100%;
+    border-radius: 15px;
+    background: #BAE8E8;
+    color: #272343;
+}
+
+.footer{
+    background: #BAE8E8;
+    color: #272343;
+    
+}
+.iconoform{
+    height: 30px;
+}
+.footer2{
+    background: #272343;
+    color: #FFFFFF;
+}
+.logofooter{
+    height: 30px;
+}

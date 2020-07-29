@@ -1,0 +1,18 @@
+.proyectos{
+    background: #FFFFFF;
+}
+
+.imagen{
+    height: 100px;
+}
+.card{
+    background: #272343;
+    color: white;
+    border-radius: 22px;
+}
+
+@media (max-width: 767.98px) {
+    .imagengrande{
+        display: none;
+    }
+ }

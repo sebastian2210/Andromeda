@@ -1,0 +1,31 @@
+
+.navbar-toggler{
+   
+    background-color: #BAE8E8 ;
+   
+}
+.navbar-toggler .line{
+    
+    background-color: black;
+    
+}
+ 
+.navbar-nav .nav-item .nav-link {
+    color: white;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #BAE8E8;
+}
+
+.navbar-brand{
+    color: white;
+    width: 84px;
+    
+}
+
+@media (max-width: 991px) {
+    .navbar-collapse{
+          background-color:#272343;
+    }
+}
