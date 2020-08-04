@@ -1,0 +1,35 @@
+.estrellas{
+
+    background: url("../img/1Mesa\ de\ trabajo\ 1.png");
+    background-size: cover;
+    background-position: center;
+    height: 280vh;
+}
+
+
+@media (max-width: 767.98px) {
+    .estrellas{
+        height: auto;
+        display: none;
+    }
+    .estrellas2{
+
+        background: url("../img/35Mesa\ de\ trabajo\ 1\ copia\ 10.png");
+        background-size: cover;
+        background-position: center;
+        height: 250vh;
+        display: none;
+        height: auto;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+body{
+        font-family: 'Roboto';  
+}
+.blog{
+    font-size: 20px;
+}
+.imagenblog{
+    width: 80%;
+}
+.contenedorblog{
+    background: #F6FFFF;
+}
+.botonesblog{
+    background: #272343;
+    border-radius: 31px;
+    color: #FFFFFF;
+}
+.colorletra{
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    border-radius: 0%;
+}
+.margenblog{
+    margin-top: 17vh;
+}
+.btn.colorletra:hover{
+    color: #BAE8E8;
+}
+
+/*footer*/
+
+.footer{
+    background: #BAE8E8;
+    color: #272343;
+    
+}
+.iconoform{
+    height: 30px;
+}
+.footer2{
+    background: #272343;
+    color: #FFFFFF;
+}
+.logofooter{
+    height: 30px;
+}
+
+/*navbar*/
+
+.navbar-toggler{
+   
+    background-color: #272343;
+   
+}
+.navbar-toggler .line{
+    
+    background-color: #272343;
+    
+}
+ 
+.navbar-nav .nav-item .nav-link {
+    color: #272343;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #272343;
+}
+
+.navbar-brand{
+    color: #272343;
+    width: 84px;
+    
+}
+
+@media (max-width: 991px) {
+    .navbar-collapse{
+          background-color:#E3F6F5;
+    }
+    .columnacategoria{
+        display: none;
+    }
+}

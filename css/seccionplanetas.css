@@ -28,3 +28,28 @@
 .columnaplanetas{
     margin-top: 15vh;
 }
+
+
+@media (max-width: 991.98px) {
+
+    .tarjetaplanetas{
+        height: 600px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .tarjetaplanetas{
+        height: 580px;
+    }
+}
+
+
+
+
+    
+
+
+
+
+

@@ -3,35 +3,71 @@
     background: url("../img/1Mesa\ de\ trabajo\ 1\ copia\ 7.png");
     background-size: cover;
     background-position: center;
-    padding-top: 100px;
+    height: 100vh;
 
     
 }
 .card2{
     background: #BAE8E8;
-    height: 460px;
+    height: 600px;
     border-radius: 17px;
     color: #272343;
 }
 .colorfondo{
     background: #ffffff;
+   
+    
+}
+.margendescubre{
+    margin-top: 10vh;
+}
+.margendescubre2{
+    margin-top: 15vh;
 }
 
-@media (max-width: 575.98){
+@media (max-width: 575.98px){
     .card2{
         height: 300px;
     }
 }
-@media (max-width: 767.98){
+@media (max-width: 767.98px){
     .card2{
-        height: 400px;
-        
+        height: 400px;       
+    }
+    .imagenfond{
+        height: auto;
+    }
+    .margendescubre{
+        margin-top: 10vh;
+    }
+    .margendescubre2{
+        margin-top: 15vh;
     }
     
 }
-@media (max-width: 991.98){
+@media (max-width: 991.98px){
     div{
         margin-top: 10px;
     }
-    
+    .imagenfond{
+        height: auto;
+    }
+    .margendescubre{
+        margin-top: 5vh;
+    }
+    .margendescubre2{
+        margin-top: 5vh;
+    }
+}
+@media (max-width: 1199.98px){
+
+    .imagenfond{
+        height: auto;
+    }
+    .margendescubre{
+        margin-top: 5vh;
+    }
+    .margendescubre2{
+        margin-top: 5vh;
+    }
 }
