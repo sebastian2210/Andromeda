@@ -27,7 +27,9 @@ body{
 
 .btn{
     background:#BAE8E8 ;
- border: 1px solid #707070;
+    border: 1px solid #707070;
     opacity: 1;
     color:#272343;
+    border-radius: 15px;
+    
 }

@@ -5,6 +5,7 @@
     background-position: center;
     height: 100vh;
 
+
     
 }
 .card2{
@@ -43,7 +44,7 @@
     .margendescubre2{
         margin-top: 15vh;
     }
-    
+
 }
 @media (max-width: 991.98px){
     div{
@@ -58,6 +59,7 @@
     .margendescubre2{
         margin-top: 5vh;
     }
+
 }
 @media (max-width: 1199.98px){
 
@@ -70,4 +72,12 @@
     .margendescubre2{
         margin-top: 5vh;
     }
+    .imagenfond{
+
+        background: #ffffff;
+        background-size: cover;
+        background-position: center;
+        height: auto;
+    }
+
 }

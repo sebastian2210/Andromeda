@@ -24,7 +24,7 @@
  }
  @media (max-width: 991.98px) { 
     .imagenastronauta{
-        height: 60%;
+        display: none;
         
     }
  }
