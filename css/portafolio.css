@@ -7,6 +7,9 @@
     color: #FFFFFF;
 
 }
+.botonportafolio:hover{
+    color: #BAE8E8;
+}
 .iconocomp{
     width: 150px;
     height: 100px;

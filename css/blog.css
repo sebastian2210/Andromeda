@@ -1,5 +1,6 @@
 body{
         font-family: 'Roboto';  
+
 }
 .blog{
     font-size: 20px;
@@ -24,6 +25,12 @@ body{
     margin-top: 17vh;
 }
 .btn.colorletra:hover{
+    color: #BAE8E8;
+}
+.botonblog{
+    color: #FFFFFF;
+}
+.botonblog:hover{
     color: #BAE8E8;
 }
 

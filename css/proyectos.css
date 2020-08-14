@@ -1,9 +1,12 @@
 .proyectos{
     background: #FFFFFF;
 }
+.margenseccion{
+    margin-top: 90px;
+}
 
 .imagen{
-    height: 100px;
+    height: 80px;
 }
 .card{
     background: #272343;

@@ -14,12 +14,17 @@ body{
     
    
 }
+
 .intro{
     margin-top: 10%;
     
     color: #F6FFFF;
 
 }
+.titulogrande{
+    font-size: 80px;
+}
+
 .img-andromeda {
     max-width: 30%;
     margin-left: 35%;
@@ -33,3 +38,12 @@ body{
     border-radius: 15px;
     
 }
+.btn-fondo:hover{
+   background: #76dddd;
+    
+}
+@media (max-width: 767.98px) { 
+    .titulogrande{
+        font-size: 60px;
+    }
+ }
