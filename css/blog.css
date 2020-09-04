@@ -8,6 +8,8 @@ body{
 .imagenblog{
     width: 80%;
 }
+
+
 .contenedorblog{
     background: #F6FFFF;
 }
@@ -25,13 +27,13 @@ body{
     margin-top: 17vh;
 }
 .btn.colorletra:hover{
-    color: #BAE8E8;
+    color: #fff;
 }
 .botonblog{
     color: #FFFFFF;
 }
 .botonblog:hover{
-    color: #BAE8E8;
+    color: #fff;
 }
 
 /*footer*/

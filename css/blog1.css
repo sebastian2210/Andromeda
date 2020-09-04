@@ -1,0 +1,36 @@
+.bg-1
+{background-color: #272343;}
+
+.margen
+{margin-top: 100px;}
+
+.bg-info-1
+{background-color: #272343;}
+
+.margen2
+{height: 200px;}
+
+.posicion
+{float: right;}
+
+.borde
+{border: none;}
+
+/*footer*/
+
+.footer{
+    background: #BAE8E8;
+    color: #272343;
+    margin-top: 100px;
+    
+}
+.iconoform{
+    height: 30px;
+}
+.footer2{
+    background: #272343;
+    color: #FFFFFF;
+}
+.logofooter{
+    height: 30px;
+}

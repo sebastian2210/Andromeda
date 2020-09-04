@@ -17,13 +17,14 @@
     border-radius: 15px;
 }
 .titulo{
-    margin-top: 100px;
+    margin-top: 20px;
 }
 .botonformulario{
     width: 100%;
     border-radius: 15px;
     background: #BAE8E8;
     color: #272343;
+    border: none;
 }
 
 .footer{
@@ -40,4 +41,11 @@
 }
 .logofooter{
     height: 30px;
+}
+
+@media (max-width: 767.98px) {
+
+    .titulo{
+        margin-top: 30px;
+    }
 }

@@ -2,6 +2,8 @@
 body{
 
     font-family: 'Roboto';
+    font-weight: lighter;
+    
 }
 
 
@@ -42,6 +44,9 @@ body{
    background: #76dddd;
     
 }
+
+
+
 @media (max-width: 767.98px) { 
     .titulogrande{
         font-size: 60px;
